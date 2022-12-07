@@ -1,4 +1,4 @@
-# random User Generator
+# Random User Generator
 this is a simple javascript apps to generate random user with details.
 
 ## Features & Overview
